@@ -1,0 +1,5 @@
+body, img{background-color:rgb(255, 255, 203);}
+td[rowspan="0"] { letter-spacing: 0.2em;}
+td{font-size: 30px}
+td[rowspan="0"]{font-size: 1px}
+td
